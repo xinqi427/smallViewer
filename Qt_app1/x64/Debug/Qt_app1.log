@@ -1,0 +1,4 @@
+﻿  viewer.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\GL/glext.h(54): warning C4005: 'GL_GLEXT_VERSION': macro redefinition
+  C:\Qt\5.9.2\msvc2017_64\include\QtGui/qopenglext.h(60): note: see previous definition of 'GL_GLEXT_VERSION'
+  Qt_app1.vcxproj -> C:\Users\nickq\OneDrive\Documents\Visual_Studio_2017\Projects\Qt_app1\x64\Debug\Qt_app1.exe

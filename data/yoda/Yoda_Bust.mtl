@@ -1,0 +1,9 @@
+# File created by ZBrush
+# ToolType: PolyMesh3D
+# www.zbrush.com
+newmtl defaultMat
+Ka 0.00000 0.00000 0.00000
+Kd 1.00000 1.00000 1.00000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd Yoda_Bust.png

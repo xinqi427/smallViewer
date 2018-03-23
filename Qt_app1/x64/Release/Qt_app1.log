@@ -1,0 +1,9 @@
+﻿  Moc'ing viewer.h...
+  main.cpp
+  viewer.cpp
+  viewerMesh.cpp
+  qrc_resources.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\GL/glext.h(54): warning C4005: 'GL_GLEXT_VERSION': macro redefinition (compiling source file viewer.cpp)
+  C:\Qt\5.9.2\msvc2017_64\include\QtGui/qopenglext.h(60): note: see previous definition of 'GL_GLEXT_VERSION' (compiling source file viewer.cpp)
+  moc_viewer.cpp
+  Qt_app1.vcxproj -> C:\Users\nickq\OneDrive\Documents\Visual_Studio_2017\Projects\Qt_app1\x64\Release\Qt_app1.exe

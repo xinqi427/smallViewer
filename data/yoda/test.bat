@@ -1,0 +1,1 @@
+Simplify3.exe "Yoda Bust.obj" "Yoda Bust.out.obj" 0.1
